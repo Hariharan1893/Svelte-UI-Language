@@ -84,5 +84,3 @@ src/routes/
 
 4. **View in browser**
    Navigate to **`http://localhost:5173`**
-
-readme
